@@ -1,0 +1,7 @@
+{
+  "tool_name": "WebSearch",
+  "tool_input_preview": "{\"query\":\"DashScope 文本重排 qwen-rerank gte-rerank 模型名 API 2025\"}",
+  "error": "Failed to authenticate. API Error: 403 Access denied for web search. Please go to the Volcano Ark Console to verify the activation status. Request id: 02178789606293700056b3041b0d991ed41cbed734fffb8824a98",
+  "timestamp": "2026-08-28T05:47:40.603Z",
+  "retry_count": 1
+}

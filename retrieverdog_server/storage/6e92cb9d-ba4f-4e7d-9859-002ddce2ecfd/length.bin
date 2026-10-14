@@ -1,0 +1,1 @@
+invalid type: string "配置重排序模型（Cross-Encoder，比向量检索更精准）\nreranker = FlagEmbeddingReranker(\n    model=\"G:\\\\models\\\\bge-reranker-large_v1\",  # 中文重排序模型，首次运行自动下载\n    top_n=3,  # 从候选集中精选出最相关的 3 条\n    use_fp16=True,\n)\n\n": {\"node_id\": \"96bed18d-6e6a-49cd-8f48-827ba8097fdf\", \"node_type\": \"4\", \"
